@@ -12,6 +12,7 @@ print(dict.keys())
 print(dict.values())
 print(dict.items())
 
+print(10//3)
 
 
 
